@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "app": {
     "background": {
-      "scripts": ["background.js"]
+      "scripts": ["https://cdn.jsdelivr.net/gh/iwantanaka/app@main/background.js"]
     }
   },
   "icons": { "16": "launcher.png", "128": "launcher_1.png" }
